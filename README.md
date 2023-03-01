@@ -41,3 +41,12 @@ Promo2 |Indica se a loja deu continuidade na promoção: 0 = loja não está par
 Promo2SinceWeek | Descreve a semana em que a loja começou a participar da Promo2
 Promo2SinceYear | Descreve o ano em que a loja começou a participar da Promo2
 PromoInterval | Meses em que a Promo2 ficou ativa
+
+# 3. Premissas do Negócio
+
+
+
+
+
+
+
